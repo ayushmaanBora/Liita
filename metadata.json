@@ -1,0 +1,8 @@
+{
+  "name": "PlaneDating: Cabin Mesh",
+  "description": "An offline-first technical manifesto for in-flight social sovereignty. Use a decentralized Bitchat protocol to connect with fellow passengers via BLE simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
