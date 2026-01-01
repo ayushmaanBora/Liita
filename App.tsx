@@ -16,7 +16,7 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-[#0A0A0A] selection:bg-white/20">
+    <div className="min-h-screen bg-gradient-to-br from-sky-50 to-white selection:bg-blue-100">
       {!profile ? (
         <Terminal onAuthorized={handleAuthorized} />
       ) : (
